@@ -103,4 +103,4 @@ To build an interactive Power BI dashboard that provides:
 ---
 
 ## 📷 Dashboard Preview  
- ![Dashboard Preview]()
+ ![Dashboard Preview](https://github.com/Geetansh2211/Ecommerce-dashboard/blob/main/ecommerce.jpg)
